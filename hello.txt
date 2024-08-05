@@ -1,6 +1,10 @@
 hello git!!! hello world!!!2222
 hello git!!! hello world!!!33333
+<<<<<<< HEAD
 hello git!!! hello world!!!4444
+=======
+hello git!!! hello world!!!hot-fix
+>>>>>>> hot-fix
 hello git!!! hello world!!!
 hello git!!! hello world!!!
 hello git!!! hello world!!!
